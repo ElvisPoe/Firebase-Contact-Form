@@ -1,0 +1,8 @@
+.contactForm{
+    margin-top: 10%;
+}
+
+#success-message{
+    margin-top: 20px;
+    display: none;
+}
